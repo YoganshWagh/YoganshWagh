@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D68F7&width=435&lines=Hi!+I'm+Yogansh+Wagh)](https://git.io/typing-svg)
 
 <!--
