@@ -3,23 +3,7 @@
 -->
 
 ## Hey 👋, I'm Yogansh Wagh 😁
-
-
-👋 Computer Engineering student passionate about coding, hardware design, and problem-solving. Exploring the realms of software and hardware to build a tech-driven future. 💻🔌 Let's collaborate and innovate! 🚀</br>
-
-🔭 I’m currently pursuing Computer Engineering at Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering & Technology, Baramati. </br>
-💬 Ask me anything, and I'll try to answer it to the fullest.</br>
-💻 Exploring whatever I find interesting.</br>
-🚀 I’m currently learning Data Structures and Algorithms, ML and Web Development.</br>
-📫 How to reach me: yogansh04@gmail.com </br>
-🥅 2024 Goals: Contribute to Open Source projects and explore new technologies.</br>
-⚡ Fun fact: I love coding and exploring new things in life.</br>
-<br></br>
-
-
-
-## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://github.com/YoganshWagh" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -31,7 +15,21 @@
 </a>
   
 </div>  
-<br/>  
+<br/>
+
+
+### Glad to see you here! &nbsp;
+👋 Computer Engineering student passionate about coding, hardware design, and problem-solving. Exploring the realms of software and hardware to build a tech-driven future. 💻🔌 Let's collaborate and innovate! 🚀</br>
+
+🔭 I’m currently pursuing Computer Engineering at Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering & Technology, Baramati. </br>
+💬 Ask me anything, and I'll try to answer it to the fullest.</br>
+💻 Exploring whatever I find interesting.</br>
+🚀 I’m currently learning Data Structures and Algorithms, ML and Web Development.</br>
+📫 How to reach me: yogansh04@gmail.com </br>
+🥅 2024 Goals: Contribute to Open Source projects and explore new technologies.</br>
+⚡ Fun fact: I love coding and exploring new things in life.</br>
+<br></br>
+
 
 ## My Skill Set
 | Domain | Technology |
@@ -106,9 +104,3 @@
 
 <br/> 
 -->
-
-
-### Glad to see you here! &nbsp;
-
-
-
