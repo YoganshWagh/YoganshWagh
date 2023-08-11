@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&pause=1000&color=F7110C&background=7008FF00&width=435&lines=Hie%F0%9F%91%8B!+I'm+Yogansh+Wagh.)](https://git.io/typing-svg)
 -->
 
-## Hey 👋,I'm Yogansh Wagh 😁
+## Hey 👋, I'm Yogansh Wagh 😁
 
 
 👋 Computer Engineering student passionate about coding, hardware design, and problem-solving. Exploring the realms of software and hardware to build a tech-driven future. 💻🔌 Let's collaborate and innovate! 🚀</br>
