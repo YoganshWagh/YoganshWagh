@@ -13,6 +13,7 @@
 <a href="https://instagram.com/__lostboy_journey___?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__lostboy_journey___) 
   
 </div>  
 <br/>
