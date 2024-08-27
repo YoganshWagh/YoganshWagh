@@ -1,4 +1,4 @@
-### Hi there, I'm YOGANSH 👋
+### Hi there, I'm YOGANSH24 👋
 
 I'm a passionate software engineer with a background in building robust applications and solving complex challenges. I have a strong foundation in both frontend and backend technologies. Exploring the realms of software and hardware to build a tech-driven future.
 
